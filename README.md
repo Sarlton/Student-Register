@@ -1,2 +1,2 @@
 # itthynk
-this is a demo page i will be building at itthynk
+This is an attemp to automate the registration form for itthynk 
