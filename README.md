@@ -1,7 +1,6 @@
 # itthynk
-This is an attemp to automate the registration form for itthynk 
+This is a project to automate the attendance register for our bootcamp.
 
-Awe lets do it.
-
-Backend - Alec
-language - PHP
+Lead backend - Alec
+Lead front-end - Labious
+languages - JS,CSS,HTML,PHP
